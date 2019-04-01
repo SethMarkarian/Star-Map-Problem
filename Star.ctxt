@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Star
+comment0.text=\n\ Class\ that\ represents\ a\ star\ on\ a\ digital\ image\ of\ the\ night\ sky.\n
+comment1.params=x\ y\ brightness
+comment1.target=Star(int,\ int,\ double)
+comment2.params=
+comment2.target=int\ getX()
+comment3.params=
+comment3.target=int\ getY()
+comment4.params=
+comment4.target=double\ getBrightness()
+numComments=5
